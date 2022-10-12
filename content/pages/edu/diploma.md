@@ -10,7 +10,7 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    title: This in an dip page
+    title: Diploma
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
