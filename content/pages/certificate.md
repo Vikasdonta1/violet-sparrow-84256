@@ -53,7 +53,7 @@ sections:
       - type: ImageBlock
         url: /images/Microsoft SQL Server Quiz.jpg
         altText: Image four
-        caption: Image four caption
+        caption: Micosoft SQL Server
     spacing: 16
     columns: 3
     aspectRatio: '16:9'
