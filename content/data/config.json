@@ -1,0 +1,154 @@
+{
+    "type": "Config",
+    "favicon": "/images/favicon.svg",
+    "header": {
+        "headerVariant": "variant-b",
+        "isSticky": true,
+        "primaryColors": "colors-d",
+        "secondaryColors": "colors-c",
+        "title": "Vikas Donta",
+        "isTitleVisible": true,
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Home",
+                "url": "/",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Projects",
+                "url": "/blog",
+                "altText": "",
+                "showIcon": true
+            },
+            {
+                "type": "Link",
+                "label": "Blogs",
+                "altText": "",
+                "url": "/blogs",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Certificates",
+                "altText": "",
+                "url": "/coursework",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "About",
+                "url": "/about",
+                "altText": ""
+            }
+        ],
+        "secondaryLinks": [
+            {
+                "type": "Button",
+                "label": "Contact Me",
+                "url": "/contact-me",
+                "altText": "Contact us",
+                "style": "secondary",
+                "showIcon": true,
+                "icon": "send",
+                "iconPosition": "right"
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "narrow"
+            }
+        }
+    },
+    "footer": {
+        "variant": "variant-b",
+        "colors": "colors-c",
+        "title": "Thank You",
+        "contacts": {
+            "title": "Contact details",
+            "phoneNumber": "+91 8554846522",
+            "phoneAltText": "Our phone",
+            "email": "vikas.donta@gmail.com",
+            "emailAltText": "Our email",
+            "address": "Thane, MH, IN 421302",
+            "addressAltText": "Our address"
+        },
+        "copyrightText": "Copyright 2022 © All Right Reserved Vikas Donta\n\n",
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Home",
+                "url": "/Home",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Projects",
+                "url": "/blog",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Certificate",
+                "altText": "",
+                "url": "/certificate",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "About",
+                "url": "/about",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Contact Me",
+                "altText": "",
+                "url": "/contact-me"
+            }
+        ],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://github.com/Vikasdonta1/",
+                "icon": "github",
+                "style": "link",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.linkedin.com/in/vikas-donta/",
+                "icon": "linkedin",
+                "style": "link",
+                "elementId": ""
+            }
+        ],
+        "legalLinks": [
+            {
+                "type": "Link",
+                "label": "Home",
+                "url": "/"
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "full"
+            }
+        }
+    },
+    "defaultMetaTags": []
+}

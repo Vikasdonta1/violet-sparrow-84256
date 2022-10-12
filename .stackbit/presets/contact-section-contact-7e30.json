@@ -1,0 +1,134 @@
+{
+    "model": "ContactSection",
+    "presets": [
+        {
+            "label": "Contact",
+            "thumbnail": "images/contact-section-contact-7e30.png",
+            "metadata": {
+                "categories": [
+                    "contact-me"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "colors": "colors-d",
+                "elementId": null,
+                "backgroundSize": null,
+                "title": "Contact With Me",
+                "text": "Start A Project or Schedule a Talk\n\n",
+                "form": {
+                    "fields": [
+                        {
+                            "name": "firstName",
+                            "label": "First Name",
+                            "hideLabel": true,
+                            "placeholder": "First Name",
+                            "isRequired": true,
+                            "width": "1/2",
+                            "$$type": "TextFormControl"
+                        },
+                        {
+                            "name": "lastName",
+                            "label": "Last Name",
+                            "hideLabel": true,
+                            "placeholder": "Last Name",
+                            "isRequired": false,
+                            "width": "1/2",
+                            "$$type": "TextFormControl"
+                        },
+                        {
+                            "name": "email",
+                            "label": "Email",
+                            "hideLabel": true,
+                            "placeholder": "Email",
+                            "isRequired": true,
+                            "width": "full",
+                            "$$type": "EmailFormControl"
+                        },
+                        {
+                            "name": "Phone Number",
+                            "label": null,
+                            "hideLabel": false,
+                            "placeholder": "Phone Number",
+                            "isRequired": false,
+                            "width": "1/2",
+                            "$$type": "TextFormControl"
+                        },
+                        {
+                            "name": "Company Or Organisation",
+                            "label": null,
+                            "hideLabel": false,
+                            "placeholder": "Company Or Organisation",
+                            "isRequired": false,
+                            "width": "1/2",
+                            "$$type": "TextFormControl"
+                        },
+                        {
+                            "name": "address",
+                            "label": "Address",
+                            "hideLabel": true,
+                            "placeholder": "Address",
+                            "isRequired": true,
+                            "width": "full",
+                            "$$type": "TextFormControl"
+                        },
+                        {
+                            "name": "Message",
+                            "label": null,
+                            "hideLabel": false,
+                            "placeholder": "Please describe",
+                            "isRequired": true,
+                            "width": "full",
+                            "$$type": "TextareaFormControl"
+                        },
+                        {
+                            "name": "updatesConsent",
+                            "label": "Sign me up to recieve updates",
+                            "isRequired": false,
+                            "width": "full",
+                            "$$type": "CheckboxFormControl"
+                        }
+                    ],
+                    "submitLabel": "Submit",
+                    "elementId": "sign-up-form",
+                    "action": "/.netlify/functions/submission_created",
+                    "destination": "vikas.donta@gmail.com",
+                    "styles": {
+                        "submitLabel": {
+                            "textAlign": "center"
+                        }
+                    },
+                    "$$type": "FormBlock"
+                },
+                "media": null,
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "narrow",
+                        "margin": [
+                            "mt-0",
+                            "mb-0",
+                            "ml-0",
+                            "mr-0"
+                        ],
+                        "padding": [
+                            "pt-24",
+                            "pb-24",
+                            "pr-4",
+                            "pl-4"
+                        ],
+                        "alignItems": "center",
+                        "justifyContent": "center",
+                        "flexDirection": "row"
+                    },
+                    "title": {
+                        "textAlign": "center"
+                    },
+                    "text": {
+                        "textAlign": "center"
+                    }
+                }
+            }
+        }
+    ]
+}
