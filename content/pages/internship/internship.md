@@ -11,9 +11,13 @@ sections:
     colors: colors-d
     variant: variant-a
     title: This is Final Project of the Internship
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: >+
+      ![](/images/roo.png)
+
+
+      [Room-Booking Using Python and Django (Click
+      Me)](https://github.com/Vikasdonta1/Room-Booking)
+
     styles:
       self:
         height: auto
