@@ -35,7 +35,6 @@ sections:
     elementId: ''
     backgroundSize: inset
     title: Diploma in DR. D.Y. PATIL College Of Engineering.
-    subtitle: Completed Diploma In Computer Engineering
     text: ''
     actions: []
     media: null
