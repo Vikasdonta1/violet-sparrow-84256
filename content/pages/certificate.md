@@ -49,7 +49,7 @@ sections:
       - type: ImageBlock
         url: /images/Matplotlib.jpg
         altText: Image three
-        caption: Image three caption
+        caption: Matplotlib
       - type: ImageBlock
         url: /images/gallery-4.jpg
         altText: Image four
