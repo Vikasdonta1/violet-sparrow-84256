@@ -11,8 +11,8 @@ sections:
     colors: colors-d
     variant: variant-a
     title: RYU SOFTWARE DEFINED NETWORKS (TOPOLOGY)
-    text: |+
-
+    text: |
+      This is Our Final Project.
     styles:
       self:
         height: auto
