@@ -10,7 +10,7 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    title: This in an intern page
+    title: This is Final Project of the Internship
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
