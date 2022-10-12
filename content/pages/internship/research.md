@@ -8,7 +8,7 @@ metaTags: []
 title: Research
 sections:
   - type: TextSection
-    colors: colors-d
+    colors: colors-e
     variant: variant-a
     title: RYU SOFTWARE DEFINED NETWORKS (TOPOLOGY)
     text: >
