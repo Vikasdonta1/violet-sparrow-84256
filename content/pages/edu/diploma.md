@@ -35,7 +35,7 @@ sections:
     elementId: ''
     backgroundSize: inset
     title: Indala College Of Engineering
-    subtitle: Fresh. Better. Faster.
+    subtitle: Currently Pursuing B.E. in Computer Engineering ( Third Year)
     text: ''
     actions:
       - type: Button
