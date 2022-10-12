@@ -11,7 +11,8 @@ sections:
     colors: colors-d
     variant: variant-a
     title: RYU SOFTWARE DEFINED NETWORKS (TOPOLOGY)
-    text: "## I Worked with Anjali, Pratti and Prof Ashok Kumar Das, Prof Ankit Gangwal to create a Secure Computer Communication, a tool to secure authentication scheme with forward secrecy for industrial internet of things using Rabin Cryptosystem. \_\_\_\_\_\_\_\_This is Our Final Project.&#xA;&#xA;\n\n"
+    text: |+
+
     styles:
       self:
         height: auto
