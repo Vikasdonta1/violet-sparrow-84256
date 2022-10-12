@@ -35,7 +35,7 @@ sections:
   - type: MediaGallerySection
     colors: colors-d
     elementId: ''
-    title: Other Courses
+    title: Courses
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
