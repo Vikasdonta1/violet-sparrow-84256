@@ -45,7 +45,7 @@ sections:
       - type: ImageBlock
         url: /images/OpenCV.jpg
         altText: Image two
-        caption: COmputer Vision
+        caption: Computer Vision
       - type: ImageBlock
         url: /images/gallery-3.jpg
         altText: Image three
