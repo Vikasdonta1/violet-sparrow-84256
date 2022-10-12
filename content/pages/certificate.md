@@ -41,7 +41,7 @@ sections:
       - type: ImageBlock
         url: /images/Python Cert.jpg
         altText: Image one
-        caption: Image one caption
+        caption: Python
       - type: ImageBlock
         url: /images/gallery-2.jpg
         altText: Image two
