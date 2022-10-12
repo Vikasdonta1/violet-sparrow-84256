@@ -51,7 +51,7 @@ sections:
         altText: Image three
         caption: Matplotlib
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/Microsoft SQL Server Quiz.jpg
         altText: Image four
         caption: Image four caption
     spacing: 16
