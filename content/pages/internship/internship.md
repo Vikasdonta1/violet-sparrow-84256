@@ -23,7 +23,7 @@ sections:
         height: auto
         width: wide
         margin:
-          - mb-12
+          - mb-0
         padding:
           - pt-12
           - pb-0
