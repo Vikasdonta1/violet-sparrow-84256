@@ -45,7 +45,7 @@ sections:
       - type: ImageBlock
         url: /images/OpenCV.jpg
         altText: Image two
-        caption: Image two caption
+        caption: COmputer Visio
       - type: ImageBlock
         url: /images/gallery-3.jpg
         altText: Image three
