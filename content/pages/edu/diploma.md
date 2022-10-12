@@ -37,13 +37,7 @@ sections:
     title: Diploma in DR. D.Y. PATIL College Of Engineering.
     subtitle: Currently Pursuing B.E. in Computer Engineering ( Third Year)
     text: ''
-    actions:
-      - type: Button
-        label: Marksheet
-        showIcon: true
-        icon: arrowRight
-        style: primary
-        url: /mark
+    actions: []
     media: null
     backgroundImage:
       type: ImageBlock
