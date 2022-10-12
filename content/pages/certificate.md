@@ -57,7 +57,7 @@ sections:
       - type: ImageBlock
         url: /images/R prog.jpg
         altText: altText of the image
-        caption: Caption of the image
+        caption: R Programing
         elementId: ''
     spacing: 16
     columns: 3
