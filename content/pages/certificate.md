@@ -43,7 +43,7 @@ sections:
         altText: Image one
         caption: Python
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/OpenCV.jpg
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
