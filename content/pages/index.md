@@ -322,6 +322,56 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: ContactSection
+    colors: colors-d
+    elementId: ''
+    backgroundSize: full
+    title: Get in Touch
+    text: We look forward to hearing from you.
+    form:
+      fields:
+        - name: name
+          label: Name
+          placeholder: Your name
+          isRequired: 'true'
+          width: 1/2
+          type: TextFormControl
+        - name: email
+          label: Email
+          placeholder: Your email
+          isRequired: 'true'
+          width: 1/2
+          type: EmailFormControl
+        - name: address
+          placeholder: Your Message
+          isRequired: 'false'
+          width: full
+          type: TextFormControl
+      submitLabel: Send Message
+      elementId: contact-form
+      action: /.netlify/functions/submission_created
+      destination: ''
+      type: FormBlock
+    media:
+      url: /images/1565584986HelpDesk Services.jpg
+      altText: Contact form image
+      type: ImageBlock
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-9
+          - pb-9
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      text:
+        textAlign: left
   - type: DividerSection
     colors: colors-d
     styles:
