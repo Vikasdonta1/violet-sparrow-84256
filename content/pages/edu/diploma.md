@@ -70,7 +70,6 @@ sections:
     colors: colors-d
     elementId: ''
     variant: variant-a
-    title: The Section Title
     subtitle: Completed Diploma In Computer Engineering
     text: |-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
