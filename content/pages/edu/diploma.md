@@ -63,6 +63,8 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
+        margin:
+          - mb-5
       title:
         textAlign: left
       subtitle:
