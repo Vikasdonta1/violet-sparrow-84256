@@ -8,7 +8,7 @@ metaTags: []
 title: Diploma
 sections:
   - type: TextSection
-    colors: colors-d
+    colors: colors-c
     variant: variant-a
     title: Education
     styles:
