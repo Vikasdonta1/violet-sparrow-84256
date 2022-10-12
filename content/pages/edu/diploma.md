@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Empty page
+title: Diploma
 sections:
   - type: TextSection
     colors: colors-d
