@@ -66,7 +66,7 @@ socialImage: /images/desmond-eagle.png
 addTitleSuffix: true
 colors: colors-c
 ---
-#
+
 
 > IMDB Case Study
 
