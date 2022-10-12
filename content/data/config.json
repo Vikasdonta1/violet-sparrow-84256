@@ -26,7 +26,7 @@
                 "type": "Link",
                 "label": "Blogs",
                 "altText": "",
-                "url": "/blogs",
+                "url": "https://tutorialsblogposts.netlify.app/",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
