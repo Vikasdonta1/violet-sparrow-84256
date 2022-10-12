@@ -66,7 +66,7 @@ socialImage: /images/desmond-eagle.png
 addTitleSuffix: true
 colors: colors-c
 ---
-# IMDB Movie Case Study
+#
 
 > IMDB Case Study
 
@@ -75,4 +75,3 @@ In this case study we will perform Data Cleaning and IMDb Movies Data Analytics 
 [IMDB_Movies_Case_Study (Notebook)](https://colab.research.google.com/github/Vikasdonta1/IMDB-Movie-Case-Study/blob/main/IMDB_Movies_Case_Study.ipynb)
 
 [GitHub Link (Source Code)](https://github.com/Vikasdonta1/Indian-Suicide-Case-Study/)September 27, 2022 | Data Sciene
-
