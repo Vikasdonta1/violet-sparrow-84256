@@ -85,7 +85,7 @@
             {
                 "type": "Link",
                 "label": "Home",
-                "url": "/Home",
+                "url": "/",
                 "altText": ""
             },
             {
