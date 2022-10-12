@@ -11,9 +11,8 @@ sections:
     colors: colors-d
     variant: variant-a
     title: Course Certificates
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: |
+      ![](/images/Python%20Kaggle.png)
     styles:
       self:
         height: auto
