@@ -1,0 +1,75 @@
+{
+    "model": "HeroSection",
+    "presets": [
+        {
+            "label": "inda",
+            "thumbnail": "images/hero-section-inda-b47b.png",
+            "metadata": {
+                "categories": [
+                    "eng"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "colors": "colors-d",
+                "elementId": "",
+                "backgroundSize": "inset",
+                "title": "Indala College Of Engineering",
+                "subtitle": "Currently Pursuing B.E. in Computer Engineering ( Third Year)",
+                "text": "",
+                "actions": [
+                    {
+                        "label": "Marksheet",
+                        "altText": null,
+                        "url": "/mark",
+                        "showIcon": true,
+                        "icon": "arrowRight",
+                        "iconPosition": null,
+                        "style": "primary",
+                        "elementId": null,
+                        "$$type": "Button"
+                    }
+                ],
+                "media": null,
+                "backgroundImage": {
+                    "url": "/images/Home 4.jpg",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "backgroundRepeat": null,
+                    "opacity": 100,
+                    "$$type": "BackgroundImage"
+                },
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "wide",
+                        "padding": [
+                            "pt-28",
+                            "pb-96",
+                            "pl-4",
+                            "pr-4"
+                        ],
+                        "alignItems": "center",
+                        "justifyContent": "center",
+                        "flexDirection": "row",
+                        "margin": [
+                            "mb-14"
+                        ]
+                    },
+                    "title": {
+                        "textAlign": "left"
+                    },
+                    "subtitle": {
+                        "textAlign": "left"
+                    },
+                    "text": {
+                        "textAlign": "left"
+                    },
+                    "actions": {
+                        "justifyContent": "flex-start"
+                    }
+                }
+            }
+        }
+    ]
+}
