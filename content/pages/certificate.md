@@ -8,7 +8,7 @@ metaTags: []
 title: Certificate
 sections:
   - type: TextSection
-    colors: colors-d
+    colors: colors-c
     variant: variant-a
     title: Course Certificates
     text: |
