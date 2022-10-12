@@ -8,7 +8,7 @@ metaTags: []
 title: Internship
 sections:
   - type: TextSection
-    colors: colors-d
+    colors: colors-c
     variant: variant-a
     title: This is Final Project of the Internship
     text: >+
