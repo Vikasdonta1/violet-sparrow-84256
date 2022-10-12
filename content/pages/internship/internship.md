@@ -32,4 +32,9 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    subtitle: >-
+      In this internship I made Room Slot Booking Django Project. I built this
+      project from scratch.  In the project I have use Django as Backend for
+      user and manager authentication and Python as Frontend to design the
+      website.         
 ---
