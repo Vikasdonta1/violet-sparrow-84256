@@ -12,7 +12,7 @@ featuredImage:
   altText: Post Thumbnail Image
 media:
   type: ImageBlock
-  url: /images/post-3.jpg
+  url: /images/TNP-Students-Commit-Suicide-Because-of-Stress.png
   altText: Post Image
 bottomSections:
   - elementId: ''
