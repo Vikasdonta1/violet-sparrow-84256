@@ -62,7 +62,7 @@ sections:
       - type: ImageBlock
         url: /images/Suicide Case Study.jpg
         altText: altText of the image
-        caption: Caption of the image
+        caption: Suicide Case Study
         elementId: ''
     spacing: 16
     columns: 3
