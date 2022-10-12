@@ -47,7 +47,7 @@ sections:
     media: null
     backgroundImage:
       type: ImageBlock
-      url: /images/hero.webp
+      url: /images/Home 4.jpg
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
