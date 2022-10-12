@@ -91,7 +91,7 @@
             {
                 "type": "Link",
                 "label": "Projects",
-                "url": "/blog",
+                "url": "https://itsmyprojects.netlify.app/",
                 "altText": ""
             },
             {
