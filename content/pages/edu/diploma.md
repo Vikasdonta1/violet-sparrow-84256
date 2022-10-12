@@ -34,7 +34,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: inset
-    title: Indala College Of Engineering
+    title: Diploma in DR. D.Y. PATIL College Of Engineering.
     subtitle: Currently Pursuing B.E. in Computer Engineering ( Third Year)
     text: ''
     actions:
