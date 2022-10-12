@@ -43,7 +43,7 @@ sections:
         showIcon: true
         icon: arrowRight
         style: primary
-        url: /
+        url: /ark
     media: null
     backgroundImage:
       type: ImageBlock
