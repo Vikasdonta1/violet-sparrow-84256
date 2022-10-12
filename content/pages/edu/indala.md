@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Inda
+title: Engineering
 sections:
   - type: TextSection
     colors: colors-d
