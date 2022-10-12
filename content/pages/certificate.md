@@ -36,7 +36,7 @@ sections:
     colors: colors-d
     elementId: ''
     title: Courses
-    subtitle: This is the subtitle
+    subtitle: Free Courses
     images:
       - type: ImageBlock
         url: /images/Python Cert.jpg
