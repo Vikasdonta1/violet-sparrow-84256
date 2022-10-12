@@ -47,7 +47,7 @@ sections:
         altText: Image two
         caption: Computer Vision
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/Matplotlib.jpg
         altText: Image three
         caption: Image three caption
       - type: ImageBlock
