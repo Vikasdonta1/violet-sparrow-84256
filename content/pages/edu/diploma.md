@@ -71,7 +71,7 @@ sections:
     elementId: ''
     variant: variant-a
     title: The Section Title
-    subtitle: ''
+    subtitle: Completed Diploma In Computer Engineering
     text: |-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
